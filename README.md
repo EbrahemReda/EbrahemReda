@@ -2,14 +2,14 @@
 <h3 align="center">My name is Ebrahem, I'm a .NET Developer from Egypt</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrahemreda&label=Profile%20views&color=0e75b6&style=flat" alt="ebrahemreda" /> </p>-->
 <h4 align="left">👨🏻‍ ABOUT ME </h4>
-<li> 🔭  I’m currently learning Backend {C#, ASP.NET}.</li>
 <li> 🎓  I’m fresh grad from FCI-ZU in Egypt.</li>
+<li> 🔭  I’m currently learning Backend {C#, ASP.NET}.</li>
 <li> 💼  Backend developer and front-end web developer.</li>
 <li> How to reach me: <a href="mailto:Ebrahem.Reda.Ahmed@gmail.com">Ebrahem.Reda.Ahmed@gmail.com</a></li>
 <h4 align="left">👨🏻‍💻 EXPERIENCES</h4>
 <li> Trained as an IT Developer at National Company for Roads Management (June 2022 – June2023 (Military Service)).</li>
 <li> Trained as a .Net Developer at EKAD-Soft (July 2019 – September 2019).</li>
-<li> MCSA ASP.NET Course at Senior Step Trainning Center.</li>
+<li> MCSA ASP.NET Course at Senior Step Trainning Center(July 2019 – December 2019).</li>
 <h4 align="left">CERTIFICATES</h4>
 <li> ITI MCSA ASP.NET Diploma(July 2020 – September 2020).</li>
 <h3 align="left">Connect with me:</h3>
