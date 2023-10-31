@@ -9,9 +9,10 @@
 <h3 align="left">👨🏻‍💻 EXPERIENCES</h4>
 <li> Trained as an IT Developer at National Company for Roads Management (June 2022 – June2023 (Military Service)).</li>
 <li> Trained as a .Net Developer at EKAD-Soft (July 2019 – September 2019).</li>
-<li> MCSA ASP.NET Course at Senior Step Trainning Center(July 2019 – December 2019).</li>
+<li>.NET Web Development Course at Senior Step Trainning Center(July 2019 – December 2019).</li>
 <h3 align="left">📜 CERTIFICATES</h4>
-<li> ITI MCSA ASP.NET Diploma(July 2020 – September 2020).</li>
+<p>Jul 2020 – Sep 2020, Information Technology Institute(ITI)</p>
+<li> .NET Web Develpment Course (150hr).</li>
 <h3 align="left">📪 Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/hemareda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemareda" height="30" width="40" /></a>
